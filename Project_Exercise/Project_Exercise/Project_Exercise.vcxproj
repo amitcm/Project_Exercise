@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DA50AB81-1494-4F28-87CB-49C93E015183}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Project_Exercise</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="anagram.h" />
+    <ClInclude Include="Avector.h" />
+    <ClInclude Include="BaseConversion.h" />
+    <ClInclude Include="BFS.h" />
+    <ClInclude Include="BigInt.h" />
+    <ClInclude Include="BinarySearch.h" />
+    <ClInclude Include="BinaryTree.h" />
+    <ClInclude Include="binary_tree_pretty_print.h" />
+    <ClInclude Include="BitMagic.h" />
+    <ClInclude Include="BitSetCount.h" />
+    <ClInclude Include="BitVector.h" />
+    <ClInclude Include="bool.h" />
+    <ClInclude Include="CardPick.h" />
+    <ClInclude Include="CPstring.h" />
+    <ClInclude Include="DivideNConquer.h" />
+    <ClInclude Include="DP_exercises.h" />
+    <ClInclude Include="DuplicatesInArray.h" />
+    <ClInclude Include="epic.h" />
+    <ClInclude Include="Graph-MAW.h" />
+    <ClInclude Include="Graphs.h" />
+    <ClInclude Include="HashMap.h" />
+    <ClInclude Include="HeapEtAl.h" />
+    <ClInclude Include="Helper.h" />
+    <ClInclude Include="MyTriliza.h" />
+    <ClInclude Include="Palindromic.h" />
+    <ClInclude Include="Polygon.h" />
+    <ClInclude Include="RegEx.h" />
+    <ClInclude Include="reverse_word.h" />
+    <ClInclude Include="RMQ_LCA.h" />
+    <ClInclude Include="SortedLLtoBST.h" />
+    <ClInclude Include="Sorting.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="String.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="tc.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="anagram.cpp" />
+    <ClCompile Include="Backtracking.cpp" />
+    <ClCompile Include="BaseConversion.cpp" />
+    <ClCompile Include="BFS.cpp" />
+    <ClCompile Include="BigInt.cpp" />
+    <ClCompile Include="BinarySearch.cpp" />
+    <ClCompile Include="BinaryTree.cpp" />
+    <ClCompile Include="binary_tree_pretty_print.cpp" />
+    <ClCompile Include="BitMagic.cpp" />
+    <ClCompile Include="BitSetCount.cpp" />
+    <ClCompile Include="BitVector.cpp" />
+    <ClCompile Include="Comparators.cpp" />
+    <ClCompile Include="DivideNConquer.cpp" />
+    <ClCompile Include="DP_exercises.cpp" />
+    <ClCompile Include="CardPick.cpp" />
+    <ClCompile Include="DuplicatesInArray.cpp" />
+    <ClCompile Include="epic.cpp" />
+    <ClCompile Include="Graph-MAW.cpp" />
+    <ClCompile Include="Graphs.cpp" />
+    <ClCompile Include="HashMap.cpp" />
+    <ClCompile Include="HeapEtAl.cpp" />
+    <ClCompile Include="Helper.cpp" />
+    <ClCompile Include="MyTriliza.cpp" />
+    <ClCompile Include="Palindromic.cpp" />
+    <ClCompile Include="Polygon.cpp" />
+    <ClCompile Include="Project_Exercise.cpp" />
+    <ClCompile Include="RegEx.cpp" />
+    <ClCompile Include="reverse_word.cpp" />
+    <ClCompile Include="RMQ_LCA.cpp" />
+    <ClCompile Include="SortedLLtoBST.cpp" />
+    <ClCompile Include="Sorting.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="String.cpp" />
+    <ClCompile Include="tc.cpp" />
+    <ClCompile Include="Triliza.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

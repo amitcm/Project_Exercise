@@ -1,0 +1,500 @@
+ Wal-Mart Stores Inc
+ Exxon Mobil Corp
+ General Motors Corp
+ Ford Motor Co
+ General Electric Co
+ ChevronTexaco Corp
+ ConocoPhillips
+ Citigroup Inc
+ International Business Machines Corp
+ American International Group
+ Hewlett-Packard Co
+ Verizon Communications Inc
+ The Home Depot Inc
+ Berkshire Hathaway Inc
+ Altria Group Inc
+ McKesson Corp
+ Cardinal Health Inc
+ State Farm Insurance Cos
+ The Kroger Co
+ Fannie Mae
+ The Boeing Co
+ AmerisourceBergen Corp
+ Target Corp
+ Bank of America Corp
+ Pfizer Inc
+ J
+ Time Warner Inc
+ The Procter &amp; Gamble Co
+ Costco Wholesale Corp
+ Johnson &amp; Johnson
+ Dell Inc
+ Sears Roebuck and Co
+ SBC Communications Inc
+ Valero Energy Corp
+ Marathon Oil Corp
+ MetLife Inc
+ Safeway Inc
+ Albertson's Inc
+ Morgan Stanley
+ AT&amp;T
+ Medco Health Solutions
+ United Parcel Service Inc
+ J C Penny
+ The Dow Chemical Co
+ Walgreen Co
+ Microsoft Corp
+ The Allstate Corp
+ Lockheed Martin Corp
+ Wells Fargo &amp; Co
+ Lowe's Cos
+ United Technologies Corp
+ Archer-Daniels-Midland Co
+ Intel Corp
+ UnitedHealth Group Inc
+ Northrop Grumman Corp
+ Delphi Corp
+ Prudential Financial Inc
+ Merrill Lynch &amp; Co
+ E I du Pont de Nemours
+ The Walt Disney Co
+ Motorola Inc
+ PepsiCo Inc
+ CVS Corp
+ Viacom Inc
+ Sprint Corp
+ Sysco Corp
+ Kmart Holding Corp
+ TIAA-CREF
+ American Express Co
+ New York Life Insurance Co
+ International Paper Co
+ Tyson Foods Inc
+ Wachovia Corp
+ Goldman Sachs Group Inc
+ Duke Energy
+ Honeywell International Inc
+ Caterpillar Inc
+ Best Buy Co
+ Johnson Controls Inc
+ BellSouth Corp
+ Ingram Micro Inc
+ FedEx Corp
+ Merck Co
+ ConAgra Foods Inc
+ HCA Inc
+ Alcoa Inc
+ Electronic Data Systems
+ Bank One Corp
+ Comcast Corp
+ Massachusetts Mutual Life Insurance Co
+ The Coca-Cola Co
+ Bristol-Myers Squibb Co
+ WellPoint Health Networks Inc
+ Georgia-Pacific Corp
+ Weyerhaeuser Co
+ Abbott Laboratories
+ AutoNation Inc
+ The Williams Cos
+ Supervalu Inc
+ Cisco Systems Inc
+ CIGNA Corp
+ Hartford Financial Services Group Inc
+ Washington Mutual Inc
+ Sara Lee Corp
+ 3M
+ Cendant Corp
+ Raytheon Co
+ Aetna Inc
+ Visteon Corp
+ AMR Corp
+ Tech Data Corp
+ Coca-Cola Enterprises Inc
+ Lehman Brothers Holdings Inc
+ McDonald's Corp
+ Northwestern Mutual Life Insurance Co
+ Liberty Mutual Insurance Group
+ Publix Super Markets Inc
+ Nationwide Mutual Insurance Co
+ Anthem Inc
+ AT&T Wireless Services Inc
+ General Dynamics Corp
+ Halliburton Co
+ Sunoco Inc
+ The Gap Inc
+ Wyeth
+ Exelon Corp
+ Loews Corp
+ Rite Aid Corp
+ Lear Corp
+ Xerox Corp
+ Deere Co
+ American Electric Power Co
+ U S bancorp
+ Federated Department Stores Inc
+ Travelers Property Casualty Corp
+ Qwest Communications International Inc
+ Goodyear Tire &amp; Rubber Co
+ Tenet Healthcare Corp
+ Amerada Hess Corp
+ FleetBoston Financial Corp
+ Kimberly-Clark Corp
+ Anheuser-Busch Cos
+ AdvancePCS Inc
+ Emerson Electric Co
+ UAL Corp
+ Countrywide Financial Corp
+ The May Department Stores Co
+ The TJX Cos
+ Eastman Kodak Co
+ Delta Air Lines Inc
+ Express Scripts Inc
+ Staples Inc
+ Union Pacific Corp
+ El Paso Corp
+ Plains All American Pipeline
+ Eli Lilly and Co
+ Office Depot Inc
+ FirstEnergy Corp
+ Humana Inc
+ Manpower Inc
+ Whirlpool Corp
+ Winn-Dixie Stores Inc
+ Edison International
+ Dominion Resources Inc
+ The Progressive Corp
+ Reliant Resources Inc
+ Solectron Corp
+ MBNA Corp
+ Marsh & McLennan Cos
+ Waste Management Inc
+ Toys "R" Us Inc
+ AFLAC
+ Sun Microsystems Inc
+ Chubb Corp
+ Computer Sciences Corp
+ Public Service Enterprise Group Inc
+ TexasU Corp
+ The Southern Co
+ PG&E Corp
+ Masco Corp
+ Health Net Inc
+ PacifiCare Health Systems Inc
+ Nextel Communications Inc
+ Nike Inc
+ United Services Automobile Association
+ General Mills Inc
+ UnumProvident Corp
+ Sanmina-SCI Corp
+ Kohl's Corp
+ The Pepsi Bottling Group Inc
+ Illinois Tool Works Inc
+ John Hancock Financial Services Inc
+ Dana Corp
+ Textron Inc
+ Circuit City Stores Inc
+ Colgate-Palmolive Co
+ Texas Instruments Inc
+ Consolidated Edison Inc
+ Aon Corp
+ Capital One Financial Corp
+ CenterPoint Energy Inc
+ Aramark Corp
+ Constellation Energy Group Inc
+ The AES Corp
+ FPL Group Inc
+ National City Corp
+ Northwest Airlines Corp
+ Oracle Corp
+ United States Steel Corp
+ Burlington Northern Santa Fe Corp
+ Principal Financial Group Inc
+ CHS Inc
+ H
+ Occidental Petroleum Corp
+ Gillette Co
+ Marriott International Inc
+ Entergy Corp
+ Dean Foods Co
+ Centex Corp
+ Baxter International
+ Caremark Rx Inc
+ Pulte Homes Inc
+ Avnet Inc
+ Progress Energy Inc
+ Guardian Life Insurance Co
+ Calpine Corp
+ The St
+ Limited Brands Inc
+ Clear Channel Communications Inc
+ Lennar Corp
+ Continental Airlines Inc
+ Fluor
+ Kellogg Co
+ Premcor Inc
+ United Auto Group Inc
+ PPG Industries Inc
+ Tesoro Petroleum Corp
+ Arrow Electronics
+ Omnicom Group Inc
+ American Standard Cos
+ D R Horton
+ First Data Corp
+ Lucent Technologies Inc
+ Genuine Parts Co
+ Yum! Brands Inc
+ Amgen Inc
+ Schering-Plough Corp
+ Boise Cascade Corp
+ TransMontaigne Inc
+ Paccar Inc
+ Alltel Corp
+ Ashland Inc
+ Eaton Corp
+ Xcel Energy Inc
+ Smurfit-Stone Container Corp
+ Smithfield Foods
+ Sempra Energy
+ Dillard's Inc
+ CSX
+ ArvinMeritor Inc
+ Newell Rubbermaid Inc
+ Fidelity National Financial Inc
+ Medtronic Inc
+ Sonic Automotive
+ MeadWestvaco Corp
+ The Bear Stearns Cos
+ Safeco Corp
+ Devon Energy Corp
+ Navistar International Corp
+ Pepco Holdings Inc
+ Automatic Data Processing Inc
+ SunTrust Banks Inc
+ DTE Energy Co
+ Keyspan Corp
+ Avon Products Inc
+ US Airways Group Inc
+ BJ's Wholesale Club Inc
+ Gannett Co
+ Farmland Industries Inc
+ Campbell Soup Co
+ Dollar General Corp
+ Crown Holdings Inc
+ Kinder Morgan Energy Partners
+ Thrivent Financial for Lutherans
+ Unocal Corp
+ Nordstrom Inc
+ Fifth Third Bancorp
+ Norfolk Southern Corp
+ Science Applications International Corp
+ Rohm and Haas Co
+ Parker-Hannifin Corp
+ NiSource Inc
+ InterActive Corp
+ The Bank of New York Co
+ Air Products &amp; Chemicals
+ Cummins
+ Nucor
+ BB&amp;T Corp
+ EMC Corp
+ The First American Corp
+ Apple Computer Inc
+ Owens-Illinois
+ Interpublic Group of Cos
+ Northeast Utilities
+ Agilent Technologies Inc
+ Saks
+ CMS Energy Corp
+ Land O'Lakes Inc
+ PN C Financial Services Group
+ Southwest Airlines Co
+ Fortune Brands
+ Unisys Corp
+ American Family Ins
+ Mirant Corp
+ KB Home
+ Dynegy Inc
+ Eastman Chemical
+ Cox Communications Inc
+ KeyCorp
+ ITT Industries Inc
+ Praxair Inc
+ NCR Corp
+ Tribune Co
+ PPL Corp
+ Barnes &amp; Noble Inc
+ Allied Waste Industries
+ Echostar Communications Corp
+ Federal-Mogul Corp
+ Performance Food Group Co
+ State Street Corp
+ AutoZone Inc
+ Oxford Health Plans Inc
+ The Sherwin-Williams Co
+ Baker Hughes Inc
+ WellChoice Inc
+ Enterprise Products Partners
+ Autoliv Inc
+ Danaher
+ Lincoln National Corp
+ Murphy Oil Corp
+ R
+ Amazon
+ VF Corp
+ SPX Corp
+ Anadarko Petroleum Corp
+ The Estee Lauder Cos
+ CNF Inc
+ L-3 Communications Holdings Inc
+ Mohawk Industries Inc
+ Owens Corning
+ Ball Corp
+ Mattel Inc
+ Monsanto Co
+ Energy East Corp
+ Harley-Davidson Inc
+ The McGraw-Hill Cos
+ Asbury Automotive Group Inc
+ Charter Communications Inc
+ Avery Dennison Corp
+ Ryder System Inc
+ Maytag Corp
+ R R Donnelley & Sons
+ Foot Locker Inc
+ Lexmark International Inc
+ Family Dollar Stores Inc
+ Quest Diagnostics Inc
+ Jabil Circuit Inc
+ Erie Insurance Group
+ Ikon Office Solutions Inc
+ Conseco Inc
+ CIT Group Inc
+ Temple-Inland Inc
+ Caesars Entertainment
+ Pacific LifeCorp
+ W W Grainger Inc
+ CDW Corp
+ Darden Restaurants Inc
+ RadioShack Corp
+ Jacobs Engineering Group Inc
+ Dole Food Co
+ The Black &amp; Decker Corp
+ Ameren Corp
+ Pitney Bowes Inc
+ Dover Corp
+ Mellon Financial Corp
+ Coventry Health Care Inc
+ Emcor Group Inc
+ Becton Dickinson and Co
+ Longs Drug Stores Corp
+ Group 1 Automotive Inc
+ Laidlaw International Inc
+ Applied Materials Inc
+ CInergy Corp
+ Goodrich Corp
+ WPS Resources Corp
+ Mutual of Omaha Insurance Cos
+ Leggett &amp; Platt
+ Roundy's
+ Jones Apparel Group Inc
+ Harrah's Entertainment Inc
+ Avaya Inc
+ The Charles Schwab Corp
+ Kelly Services
+ Burlington Resources Inc
+ OM Group Inc
+ Owens &amp; Minor Inc
+ Liz Claiborne Inc
+ Auto-Owners Insurance Group
+ Cablevision Systems
+ AK Steel Holding Corp
+ Hormel Foods Corp
+ Kerr-McGee
+ Apache Corp
+ Big Lots Inc
+ Hershey Foods Corp
+ The Clorox Co
+ SLM Corp
+ Phelps Dodge Corp
+ MGM Mirage
+ Brunswick Corp
+ Rockwell Automation Inc
+ Levi Strauss &amp; Co
+ Maxtor Corp
+ York International Corp
+ Starbucks Corp
+ International Steel Group Inc
+ Wisconsin Energy Corp
+ The Brink's Co
+ Level 3 Communications Inc
+ Adolph Coors Co
+ Collins &amp; Aikman Corp
+ Pathmark Stores Inc
+ Nash Finch Co
+ Qualcomm Inc
+ CarMax Inc
+ Triad Hospitals Inc
+ Terex Corp
+ Hilton Hotels
+ United Stationers Inc
+ Golden West Financial Corp
+ Lyondell Chemical
+ Starwood Hotels &amp; Resorts Worldwide Inc
+ Western &amp; Southern Mutual Holding Co
+ The Timken Co
+ Affiliated Computer Services Inc
+ OGE Energy Corp
+ Ross Stores Inc
+ Graybar Electric Co
+ H&amp;R Block Inc
+ Tenneco Automotive Inc
+ Ecolab Inc
+ Borders Group Inc
+ Guidant Corp
+ Engelhard Corp
+ Host Marriott Corp
+ NVR Inc
+ American Axle &amp; Manufacturing Holdings Inc
+ USG Corp
+ Bed Bath &amp; Beyond Inc
+ Jefferson-Pilot Corp
+ NTL
+ Universal Health Services Inc
+ ServiceMaster
+ W R Berkley
+ Stryker Corp
+ Regions Financial Corp
+ C H Robinson Worldwide Inc
+ Smith International Inc
+ Fisher Scientific International Inc
+ Advance Auto Parts Inc
+ Sealed Air Corp
+ Interstate Bakeries Corp
+ Advanced Micro Devices Inc
+ Cooper Tire &amp; Rubber Co
+ Omnicare Inc
+ AGCO Corp
+ Reebok International Ltd
+ Boston Scientific Corp
+ Kindred Healthcare Inc
+ Telephone and Data Systems Inc
+ The Ryland Group Inc
+ SCANA Corp
+ LandAmerica Financial Group Inc
+ Gateway Inc
+ Peter Kiewit Sons' Inc
+ American Financial Group Inc
+ Henry Schein Inc
+ The Shaw Group Inc
+ Comerica Inc
+ Wesco International Inc
+ Old Republic International Corp
+ Brinker International Inc
+ Equity Office Properties Trust
+ Allmerica Financial Corp
+ Armstrong Holdings Inc
+ Spartan Stores Inc
+ Hughes Supply Inc
+ PepsiAmericas Inc
+ The New York Times Co
+ Newmont Mining Corp

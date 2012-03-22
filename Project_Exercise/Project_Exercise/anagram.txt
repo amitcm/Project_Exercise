@@ -1,0 +1,8 @@
+banana
+act	cat
+elephant
+apple	ppale
+pans	snap
+donkey
+frog
+pots

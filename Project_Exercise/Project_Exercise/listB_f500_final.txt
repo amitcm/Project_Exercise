@@ -1,0 +1,500 @@
+3m,860
+abb,99
+abbott laboratories,8
+accenture,6
+acer,58
+acs,264
+adecco group,0
+aegon,22
+aeon,74
+aetna,11
+aflac,0
+agricultural bank of china,0
+air france-klm group,0
+aisin seiki,1
+akzo nobel,0
+alcatel-lucent,3
+alcoa,6
+alfresa holdings,0
+alliance boots,0
+allianz,0
+allstate,0
+alstom,2
+aluminum,0
+amazoncom,3
+american express,0
+american international group,1
+amerisourcebergen,0
+amr,45
+américa móvil,0
+anglo american,0
+anheuser-busch inbev,1
+ap møller-mærsk group,0
+apple,4
+arcelormittal,0
+archer daniels midland,1
+assicurazioni generali,0
+astrazeneca,2
+at&t,6
+australia &amp new zealand banking,0
+aviation industry,0
+aviva,7
+axa,98
+bae systems,28
+banco bilbao vizcaya argentaria,1
+banco bradesco,1
+banco do brasil,0
+banco santander,0
+bank of america,2
+bank of china,0
+bank of communications,0
+bank of nova scotia,0
+baosteel group,0
+barclays,0
+basf,13
+bayer,15
+berkshire hathaway,0
+bertelsmann,0
+best buy,0
+bharat petroleum,0
+bhp billiton,2
+bmw,22
+bnp paribas,1
+boeing,5
+bouygues,0
+bp,109
+bridgestone,5
+british american tobacco,0
+bt group,33
+bunge,8
+canon,29
+cardinal health,1
+carrefour,0
+caterpillar,7
+cathay life insurance,0
+centrica,3
+cepsa,7
+cfe,109
+chemchina,0
+chevron,2
+china communications construction,0
+china construction bank,0
+china datang,0
+china electronics,1
+china faw group,0
+china guodian,0
+china huaneng group,0
+china life insurance,0
+china metallurgical group,0
+china minmetals,0
+china mobile communications,1
+china national aviation fuel group,0
+china national building material group,0
+china national offshore oil,0
+china national petroleum,0
+china north industries group,0
+china ocean shipping,0
+china pacific insurance (group),0
+china post group,0
+china railway construction,0
+china railway group,0
+china railway materials commercial,0
+china resources,0
+china shipbuilding industry,0
+china south industries group,0
+china southern power grid,0
+china state construction engineering,0
+china telecommunications,0
+china united network communications,0
+christian dior,0
+chrysler group,1
+chs,35
+chubu electric power,2
+cie nationale à portefeuille,0
+cigna,14
+cisco systems,1
+citic group,1
+citigroup,0
+cnp assurances,0
+co-operative group,0
+coca-cola,0
+cofco,21
+comcast,1
+commerzbank,0
+commonwealth bank of australia,0
+compal electronics,5
+compass group,0
+conocophillips,6
+continental,0
+cosmo oil,2
+costco wholesale,1
+cpc,116
+credit suisse group,0
+crh,59
+crédit agricole,0
+cvs caremark,0
+dai-ichi life insurance,0
+daimler,1
+daiwa house industry,0
+danone,3
+danske bank group,0
+deere,3
+delhaize group,0
+dell,44
+delta air lines,2
+denso,26
+deutsche bahn,0
+deutsche bank,0
+deutsche post,0
+deutsche telekom,1
+dexia group,0
+directv,0
+dongfeng motor,0
+doosan,3
+dow chemical,1
+dupont,0
+dz bank,0
+eads,45
+east japan railway,1
+ecopetrol,0
+edeka zentrale,0
+eli lilly,2
+emerson electric,7
+enel,32
+energie baden-württemberg,0
+eni,140
+enterprise products partners,0
+eon,78
+evonik industries,0
+exor group,0
+express scripts,1
+exxon mobil,1
+fannie mae,1
+fedex,38
+finmeccanica,0
+flextronics international,1
+fluor,4
+foncière euris,0
+ford motor,3
+formosa petrochemical,0
+france télécom,0
+franz haniel,0
+freddie mac,1
+fresenius,0
+fujifilm holdings,2
+fujitsu,9
+gas natural fenosa,0
+gasterra,2
+gazprom,0
+gdf suez,1
+general dynamics,1
+general electric,14
+general motors,6
+george weston,0
+glaxosmithkline,5
+glencore international,0
+goldman sachs group,0
+google,6
+groupama,0
+groupe auchan,0
+groupe bpce,0
+gs holdings,53
+hanwha,1
+hartford financial services,0
+hca holdings,7
+hebei iron &amp steel group,0
+heineken holding,0
+henan coal &amp chemical,0
+henkel,4
+heraeus holding,1
+hess,32
+hewlett-packard,5
+hindustan petroleum,0
+hitachi,14
+hochtief,0
+holcim,2
+home depot,0
+hon hai precision industry,21
+honda motor,20
+honeywell international,23
+hsbc holdings,2
+huawei technologies,10
+humana,2
+hutchison whampoa,0
+hyundai heavy industries,1
+hyundai motor,6
+iberdrola,1
+idemitsu kosan,9
+imperial tobacco group,0
+indian oil,2
+industrial &amp commercial bank of china,0
+ineos group holdings,0
+ing group,5
+ingram micro,0
+intel,28
+international business machines,45
+international paper,5
+intesa sanpaolo,0
+intl fcstone,0
+itaúsa-investimentos itaú,0
+itochu,2
+j sainsbury,0
+japan post holdings,0
+japan tobacco,5
+jardine matheson,0
+jbs,7
+jfe holdings,8
+jiangsu shagang group,0
+jizhong energy group,0
+johnson &amp johnson,0
+johnson controls,3
+jp morgan chase &amp,0
+jx holdings,0
+kansai electric power,2
+kbc group,8
+kddi,10
+kfw bankengruppe,0
+kimberly-clark,2
+kirin holdings,1
+kobe steel,3
+komatsu,6
+korea electric power,2
+korea gas,2
+koç holding,2
+kraft foods,0
+kroger,4
+l'oréal,6
+la poste,1
+lafarge,2
+landesbank baden-württemberg,0
+legal &amp general group,0
+lenovo group,0
+lg display,13
+lg electronics,56
+liberty mutual insurance group,0
+lloyds banking group,0
+lm ericsson,0
+lockheed martin,11
+lowe's,0
+lufthansa group,0
+lukoil,0
+lyondellbasell industries,0
+macy's,0
+magna international,4
+manulife financial,0
+mapfre group,0
+marathon oil,2
+marubeni,0
+maruhan,1
+massachusetts mutual life insurance,3
+mazda motor,3
+mcdonald's,1
+mckesson,0
+medco health solutions,4
+medipal holdings,0
+meiji yasuda life insurance,0
+merck,4
+metlife,1
+metro,15
+michelin,0
+microsoft,14
+migros group,0
+mitsubishi,1
+mitsubishi chemical holdings,0
+mitsubishi electric,5
+mitsubishi heavy industries,16
+mitsubishi motors,1
+mitsubishi ufj financial group,0
+mitsui,1
+mizuho financial group,0
+mol hungarian oil &amp gas,0
+morgan stanley,1
+motorola solutions,1
+ms&ampad insurance group holdings,0
+munich re group,0
+murphy oil,2
+national australia bank,0
+national grid,0
+nationwide,0
+nec,59
+nestlé,0
+new york life insurance,1
+news,4
+nippon life insurance,0
+nippon steel,2
+nippon telegraph &amp telephone,0
+nippon yusen kabushiki kaisha,1
+nissan motor,12
+nksj holdings,0
+noble group,0
+nokia,27
+northrop grumman,11
+northwestern mutual,0
+novartis,4
+occidental petroleum,0
+oil &amp natural gas,0
+old mutual,0
+omv group,8
+onex,29
+oracle,5
+panasonic,8
+pdvsa,2
+pemex,15
+people's insurance,0
+pepsico,6
+petrobras,3
+petronas,0
+petroplus holdings,0
+peugeot,0
+pfizer,9
+philip morris international,0
+phoenix pharmahandel,0
+ping an insurance,0
+pkn orlen group,0
+plains all american pipeline,0
+posco,49
+poste italiane,0
+power nada,0
+ppr,3
+premafin finanziaria,0
+procter &amp gamble,0
+prudential,1
+prudential financial,0
+ptt,86
+publix super markets,0
+quanta computer,4
+rabobank group,0
+raytheon,4
+reliance industries,2
+renault,4
+repsol ypf,1
+research in motion,6
+ricoh,50
+rio tinto group,0
+rite aid,0
+robert bosch,13
+roche group,0
+rosneft oil,0
+royal ahold,0
+royal bank of canada,0
+royal bank of scotland,1
+royal dutch shell,0
+royal philips electronics,0
+rwe,11
+sabic,13
+safeway,3
+saint-gobain,1
+samsung c&ampt,0
+samsung electronics,98
+samsung life insurance,0
+sanofi-aventis,4
+sberbank,1
+schlumberger,1
+schneider electric,1
+scottish &amp southern energy,0
+sears holdings,0
+seven &amp i holdings,0
+shanghai automotive,0
+sharp,7
+shenhua group,0
+shougang group,0
+showa shell sekiyu,0
+shv holdings,1
+siemens,4
+sinochem group,0
+sinomach,0
+sinopec group,0
+sinosteel,0
+sistema,0
+sk holdings,4
+sncf,3
+société générale,0
+sodexo,0
+softbank,2
+sony,31
+sprint nextel,0
+standard chartered group,0
+standard life,0
+staples,0
+state bank of india,0
+state farm insurance,0
+state grid,0
+statoil,0
+sumitomo,1
+sumitomo chemical,9
+sumitomo electric industries,14
+sumitomo life insurance,0
+sumitomo mitsui financial group,0
+sun life financial,0
+suncor energy,2
+sunoco,2
+supervalu,0
+surgutneftegas,0
+suzuken,0
+suzuki motor,1
+swiss reinsurance,1
+sysco,8
+t&ampd holdings,0
+target,1
+tata motors,0
+tata steel,0
+tech data,0
+telecom italia,1
+telefónica,0
+telstra,1
+tesco,32
+tesoro,3
+thyssenkrupp,0
+tiaa-cref,0
+time warner,3
+tjx,38
+tnk-bp international,0
+tohoku electric power,0
+tokio marine holdings,0
+tokyo electric power,2
+toronto-dominion bank,0
+toshiba,6
+total,24
+toyota motor,1
+travelers,0
+tui,12
+tyson foods,1
+ubs,0
+ultrapar holdings,0
+unicredit group,0
+unilever,0
+united continental holdings,0
+united parcel service,0
+united technologies,6
+unitedhealth group,0
+us bancorp,0
+us postal service,0
+vale,63
+valero energy,0
+vattenfall,0
+veolia environnement,0
+verizon communications,2
+vinci,3
+vivendi,0
+vodafone,0
+volkswagen,0
+volvo,1
+wal-mart stores,1
+walgreen,3
+walt disney,0
+wellpoint,1
+wells fargo,0
+wesfarmers,0
+westpac banking,0
+wilmar international,0
+wistron,11
+wm morrison supermarkets,0
+wolseley,0
+woolworths,0
+wuhan iron &amp steel,0
+xerox,18
+xstrata,0
+yamada denki,0
+zhejiang materials industry group,0
+zurich financial services,0
+Électricité de france,1
